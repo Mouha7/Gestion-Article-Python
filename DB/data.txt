@@ -1,0 +1,78 @@
+Article;Categorie;Titre;Contenu;tags;auteur;date;etat;vue;like;dislike
+----------------------------------------------------------------------
+Article 1;SPORT;Titre Sport 1;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag2, tag3, tag4;toto;23-10-2023 à 02:40;publié;123;23456;232
+Article 2;DEV;Titre Dev 2;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag2, tag5;titi;23-10-2022 à 02:11;publié;534;4543;0
+Article 3;JAVASCRIPT;Titre Js 3;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag11, tag2, tag3, tag6;toto;23-11-2010 à 12:12;brouillon;0;0;0
+Article 4;WEB;Titre Web 4;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag3, tag7;toto;21-10-2003 à 12:13;brouillon;0;0;0
+Article 5;SPORT;Titre Sport 5;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag8;breukh;09-02-2023 à 11:14;brouillon;0;0;0
+Article 6;JAVASCRIPT;Titre Js 6;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag10;titi;03-11-2023 à 12:15;publié;756;65754;76
+Article 7;JAVASCRIPT;Titre JS 7;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag3, tag10;breukh & toto;23-10-2023 à 10:16;publié;5644;45457;6
+Article 8;WEB;Titre Web 8;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag2, tag3, tag11;breukh;23-12-2023 à 12:17;brouillon;0;0;0
+Article 9;DEV;Titre Dev 9;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag2, tag3, tag6;titi;23-10-2023 à 12:18;publié;574;567;57
+Article 10;MUSIQUE;Titre Musique 10;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag2, tag3, tag13;tata;23-10-2023 à 12:19;brouillon;0;0;0
+Article 11;SPORT;Titre Sport 11;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag2, tag3, tag14;toto;23-10-2023 à 12:20;brouillon;0;0;0
+Article 12;JAVASCRIPT;Titre JS 12;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag2, tag3, tag15;tata;23-10-2023 à 12:21;publié;343;56;0
+Article 13;JAVASCRIPT;Titre JS 13;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag2, tag3, tag16;breukh;23-10-2003 à 12:22;publié;2346;43656;67
+Article 14;PYTHON;Titre Python 14;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag22, tag3, tag17;titi;23-10-2023 à 12:23;publié;5643;65;0
+Article 15;MOBILE;Titre Mobile 15;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag35, tag18;tete;23-10-2022 à 12:24;publié;3436;4534;0
+Article 16;TECH;Titre TEch 16;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag5, tag2, tag19;tutu;23-10-2011 à 12:25;brouillon;0;0;0
+Article 17;PYTHON;Titre Python 17;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag2, tag3, tag20;tete;23-08-2023 à 12:26;brouillon;0;0;0
+Article 18;TECH;Titre Tech 18;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag1, tag5, tag3, tag21;toto;03-10-2023 à 22:27;publié;5654;6435;456
+Article 19;DEV;Titre DEV 19;"Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+Aperiam esse id voluptatibus est corporis, magnam eaque odio 
+corrupti itaque eius pariatur quia nobis molestias dicta, 
+quibusdam vero eveniet, debitis expedita.";tag2, tag3, tag22;breukh;10-02-2024 à 11:28;brouillon;0;0;0
